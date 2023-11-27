@@ -11,11 +11,11 @@ This repository contains detailed answers to the Android (SEIT2041) exam held on
 - partical list 
 
 ## Contents
-- [Question Paper](.SEIT2041_AY-DEC-22_SEM-3_REGULAR.pdf): PDF file containing the December 22 Android exam questions.
+- [Question Paper](./SEIT2041_AY-DEC-22_SEM-3_REGULAR.pdf): PDF file containing the December 22 Android exam questions.
 - [Answer](https://chat.openai.com/share/be609c11-c67a-4ad1-b978-139663a34530): its Chatgpt Answer link.
 
 ## Usage
-1. **Download Question Paper**: Click [here](.SEIT2041_AY-DEC-22_SEM-3_REGULAR.pdf) to download the December 22 Android exam question paper.
+1. **Download Question Paper**: Click [here](./SEIT2041_AY-DEC-22_SEM-3_REGULAR.pdf) to download the December 22 Android exam question paper.
 
 2. **Access Exam Answers**: The detailed answers are available in the [ChatGPT link](https://chat.openai.com/share/be609c11-c67a-4ad1-b978-139663a34530).
 
