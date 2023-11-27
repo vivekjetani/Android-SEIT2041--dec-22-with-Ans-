@@ -12,7 +12,7 @@ This repository contains detailed answers to the Android (SEIT2041) exam held on
 - partical list 
 
 ## Contents
-- [study material](.Android): it contain the pdf of Android (SEIT2041)
+- [study material](Android): it contain the pdf of Android (SEIT2041)
 - [Question Paper](./SEIT2041_AY-DEC-22_SEM-3_REGULAR.pdf): PDF file containing the December 22 Android exam questions.
 - [Answer](https://chat.openai.com/share/be609c11-c67a-4ad1-b978-139663a34530): its Chatgpt Answer link.
 
