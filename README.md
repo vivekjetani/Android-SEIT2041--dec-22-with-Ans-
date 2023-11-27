@@ -6,6 +6,7 @@ This repository contains detailed answers to the Android (SEIT2041) exam held on
 ## IMP
 - Android Architecture
 - Android activity life cycle
+- differentiate between simulator and Emulator
 - basic of Android
 - DVM 
 - partical list 
